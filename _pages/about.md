@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 Hi there, 
 
-**As of 2024, I am actively seeking PhD positions in Machine Learning and Deep Learning, with a primary focus on computer vision, interpretable AI, and related fields."** you can check my [CV here](https://drive.google.com/file/d/1ZUwPaBn-b8YOF0trulMAcAe_8UcHgoLO/view"target=).
+**"As of 2024, I am actively seeking PhD positions in Machine Learning and Deep Learning, with a primary focus on computer vision, interpretable AI, and related fields."** you can check my [CV here](https://drive.google.com/file/d/1ZUwPaBn-b8YOF0trulMAcAe_8UcHgoLO/view"target=).
 
 
 I'm a senior master's student in the field of AI and Machine Learning at [Iran University of Science and Technology (IUST)](http://www.iust.ac.ir/en) and happy to be supervised by [Morteza Analoui](https://scholar.google.com/citations?hl=en&user=WN82kZoAAAAJ&view_op=list_works&sortby=pubdate). 
