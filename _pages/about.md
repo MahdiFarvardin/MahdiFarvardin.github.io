@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 Hi there, 
 
-**"Starting 2024, I am actively seeking PhD positions in Machine Learning and Deep Learning, with a primary focus on Causality, Health Care, Vision and NLP, and related fields."** 
+**"Starting 2024, I am actively seeking PhD positions in Machine Learning and Deep Learning, with a primary focus on Causality, Health Care, Vision, NLP, and related fields."** 
 
 I'm a senior master's student in the field of AI and Machine Learning at [Iran University of Science and Technology (IUST)](http://www.iust.ac.ir/en) and happy to be supervised by [Morteza Analoui](https://scholar.google.com/citations?hl=en&user=WN82kZoAAAAJ&view_op=list_works&sortby=pubdate). 
 
