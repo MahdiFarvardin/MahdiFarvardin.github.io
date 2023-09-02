@@ -22,6 +22,6 @@ Hi there,
 
 I'm a senior master's student in the field of AI and Machine Learning at [Iran University of Science and Technology (IUST)](http://www.iust.ac.ir/en) and happy to be supervised by [Morteza Analoui](https://scholar.google.com/citations?hl=en&user=WN82kZoAAAAJ&view_op=list_works&sortby=pubdate). 
 
-My main research interest lies in the area of Interpretable AI and Machine Learning for healthcare.
+My main research interest lies in the area of Interpretable AI, Causality and Machine Learning for healthcare.
 
 Previously I completed my Bachelor's degree in Computer Engineering from [University of Mohaghegh Ardabili](https://uma.ac.ir/index.php?slc_lang=en&sid=1), during that I was working under supervision of [Adel Akbarimajd](https://scholar.google.com/citations?user=BwVBVpkAAAAJ&hl=en). 
