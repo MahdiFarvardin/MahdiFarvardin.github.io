@@ -8,8 +8,9 @@ nav_order: 5
 ---
 
 Courses
-    - Neural Network
-    - Statistical Inference
+
+    - 2020 - **Neural Networks**. Masters Artificial Intelligence, Iran University of Science and Technology
+    - 2021 **Statistical Inference**. Masters Artificial Intelligence, University of Tehran
     - Advanced Programming
     - Operating Systems 
     - Data Mining
