@@ -11,9 +11,9 @@ nav_order: 5
 
 - Teaching Assistant
 
-  - 2021 - **Statistical Inference**. Masters Artificial Intelligence, University of Tehran
-  - 2020 - **Neural Networks**. Masters Artificial Intelligence, Iran University of Science and Technology
-  - 2017 - **Advanced Programming**. Bachelors Computer Engineering
-  - 2017 - **Operating Systems**. Bachelors Computer Engineering
+  - 2021 - **Statistical Inference**. Master's, Artificial Intelligence and Robotics, University of Tehran
+  - 2020 - **Neural Networks**. Master's, Artificial Intelligence and Robotics, Iran University of Science and Technology
+  - 2017 - **Advanced Programming**. Bachelor's, Computer Engineering
+  - 2017 - **Operating Systems lab**. Bachelor's, Computer Engineering
 
 
