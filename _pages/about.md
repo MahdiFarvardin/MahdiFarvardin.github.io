@@ -9,7 +9,10 @@ profile:
   image: 179.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <a href="https://drive.google.com/file/d/1BgUP9qJJAR13kLlKMvRqYiG5NT2EYvH3/view">CV ^_^</a> 
+  <a href="https://drive.google.com/file/d/1mf8GrohmXPTM_-jQUbzLn-eToUZEaN1l/view">CV ^_^</a> 
+
+    
+    
  
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
